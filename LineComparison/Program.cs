@@ -10,8 +10,7 @@ namespace LineComparison
     {
         public static void Main()
         {
-            //Console.WriteLine("----------Welcome to Line Comparison Computation Program---------");
-            LineComp.Cal_Length();
+            Console.WriteLine("----------Welcome to Line Comparison Computation Program---------");
         }
     }
 }
