@@ -12,7 +12,8 @@ namespace LineComparison
         {
             Console.WriteLine("----------Welcome to Line Comparison Computation Program---------");
             //LineComp.Cal_Length();
-            LineComp.Equalline();
+            //LineComp.Equalline();
+            LineComp.CompareLines();
         }
     }
 }
